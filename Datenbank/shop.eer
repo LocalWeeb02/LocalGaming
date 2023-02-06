@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eer xmlns="http://www.informatik.uni-oldenburg.de/2006/EER-Designer/EER">
+    <head>
+        <name>neues (E)ER-Diagramm</name>
+    </head>
+    <model />
+    <view scaleSize="50" fontSize="12" />
+</eer>
+
